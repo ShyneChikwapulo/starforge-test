@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:34:22.232Z",
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-10T11:14:35.437Z",
   "visibility": "public",
   "user": {
     "login": "ShyneChikwapulo",
@@ -11,19 +11,15 @@
     "following": 32
   },
   "window": {
-    "from": "2025-11-10",
-    "to": "2026-11-09"
+    "from": "2025-11-11",
+    "to": "2026-11-10"
   },
   "contributions": {
-    "commits": 400,
+    "commits": 416,
     "pullRequests": 9,
     "issues": 1,
     "reviews": 0,
     "calendar": [
-      {
-        "date": "2025-11-10",
-        "count": 0
-      },
       {
         "date": "2025-11-11",
         "count": 0
@@ -1478,7 +1474,11 @@
       },
       {
         "date": "2026-11-09",
-        "count": 0
+        "count": 10
+      },
+      {
+        "date": "2026-11-10",
+        "count": 6
       }
     ]
   },
@@ -1488,98 +1488,98 @@
       "color": "#3572A5",
       "bytes": 23070752,
       "repoCount": 8,
-      "share": 0.7699611083861316
+      "share": 0.7687238038079544
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
       "bytes": 2818878,
       "repoCount": 9,
-      "share": 0.09407696937166514
+      "share": 0.09392579048270983
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 1674941,
+      "bytes": 1723169,
       "repoCount": 3,
-      "share": 0.055899323474214266
+      "share": 0.05741646515397283
     },
     {
       "name": "CSS",
       "color": "#663399",
       "bytes": 1285671,
       "repoCount": 8,
-      "share": 0.04290786308915749
+      "share": 0.042838911430610346
     },
     {
       "name": "HTML",
       "color": "#e34c26",
       "bytes": 409814,
       "repoCount": 10,
-      "share": 0.013677093909732728
+      "share": 0.013655115227009202
     },
     {
       "name": "Dart",
       "color": "#00B4AB",
       "bytes": 388943,
       "repoCount": 1,
-      "share": 0.012980547117797774
+      "share": 0.012959687765031551
     },
     {
       "name": "C#",
       "color": "#7355dd",
       "bytes": 248724,
       "repoCount": 2,
-      "share": 0.00830089139366728
+      "share": 0.008287552108328745
     },
     {
       "name": "C",
       "color": "#555555",
       "bytes": 43726,
       "repoCount": 1,
-      "share": 0.00145930741335575
+      "share": 0.0014569623497884513
     },
     {
       "name": "PowerShell",
       "color": "#012456",
       "bytes": 8834,
       "repoCount": 1,
-      "share": 0.00029482508552313715
+      "share": 0.00029435131038812556
     },
     {
       "name": "Shell",
       "color": "#89e051",
       "bytes": 7076,
       "repoCount": 2,
-      "share": 0.00023615375879122916
+      "share": 0.00023577426673153457
     },
     {
       "name": "Dockerfile",
       "color": "#384d54",
       "bytes": 4786,
       "repoCount": 2,
-      "share": 0.0001597275140721909
+      "share": 0.00015947083671242573
     },
     {
       "name": "Swift",
       "color": "#F05138",
       "bytes": 900,
       "repoCount": 1,
-      "share": 0.000030036515391761765
+      "share": 0.0000299882476057633
     },
     {
       "name": "Go Template",
       "color": "#00ADD8",
       "bytes": 356,
       "repoCount": 1,
-      "share": 0.00001188111053274132
+      "share": 0.00001186201794183526
     },
     {
       "name": "Kotlin",
       "color": "#A97BFF",
       "bytes": 128,
       "repoCount": 1,
-      "share": 0.00000427185996682834
+      "share": 0.000004264995215041892
     }
   ],
   "repositories": [
@@ -1618,7 +1618,7 @@
       "primaryLanguage": null,
       "topics": [],
       "createdAt": "2026-11-04T07:42:40Z",
-      "pushedAt": "2026-11-08T10:25:03Z",
+      "pushedAt": "2026-11-09T11:34:40Z",
       "isFork": false,
       "isArchived": false
     },
@@ -1631,7 +1631,7 @@
       "primaryLanguage": "TypeScript",
       "topics": [],
       "createdAt": "2026-11-03T11:08:08Z",
-      "pushedAt": "2026-11-08T20:35:07Z",
+      "pushedAt": "2026-11-10T03:42:38Z",
       "isFork": false,
       "isArchived": false
     },
@@ -1748,7 +1748,7 @@
       "primaryLanguage": "JavaScript",
       "topics": [],
       "createdAt": "2026-10-04T01:32:33Z",
-      "pushedAt": "2026-11-08T16:33:28Z",
+      "pushedAt": "2026-11-09T20:32:06Z",
       "isFork": false,
       "isArchived": false
     },
@@ -1900,5 +1900,70 @@
     "repositories": 24,
     "stars": 1,
     "forks": 2
+  },
+  "pullRequestStats": {
+    "opened": 9,
+    "merged": 6,
+    "mergedAllTime": 6
+  },
+  "community": {
+    "sponsoring": 0,
+    "sponsors": 0,
+    "discussionsStarted": 0,
+    "discussionsAnswered": 0
+  },
+  "highlights": {
+    "pinned": [
+      {
+        "nameWithOwner": "ShyneChikwapulo/inkrepublik",
+        "url": "https://github.com/ShyneChikwapulo/inkrepublik",
+        "description": "A booking website and admin panel for a tattoo studio, built with ASP.NET Core and Blazor Server on .NET 10.",
+        "stars": 1,
+        "primaryLanguage": "HTML"
+      },
+      {
+        "nameWithOwner": "ShyneChikwapulo/ml-advisor",
+        "url": "https://github.com/ShyneChikwapulo/ml-advisor",
+        "description": "A mobile app that helps software engineering students and developers choose a machine-learning model for software bug prediction. It combines a model library, side-by-side comparison, a guided recommendation wizard and an AI chat grounded in published research.",
+        "stars": 0,
+        "primaryLanguage": "Python"
+      },
+      {
+        "nameWithOwner": "ShyneChikwapulo/butchers-mermaid",
+        "url": "https://github.com/ShyneChikwapulo/butchers-mermaid",
+        "description": "A website for The Butcher's Mermaid, a high-end butchery, restaurant, bar and deli in Hout Bay, Cape Town. Built with .NET 10 and Blazor.",
+        "stars": 0,
+        "primaryLanguage": "C#"
+      }
+    ],
+    "notable": {
+      "mergedPullRequests": 5,
+      "repositories": [
+        {
+          "nameWithOwner": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "stars": 57925,
+          "mergedPullRequests": 1
+        },
+        {
+          "nameWithOwner": "github/docs",
+          "url": "https://github.com/github/docs",
+          "stars": 21403,
+          "mergedPullRequests": 2
+        },
+        {
+          "nameWithOwner": "dotnet/orleans",
+          "url": "https://github.com/dotnet/orleans",
+          "stars": 10921,
+          "mergedPullRequests": 1
+        },
+        {
+          "nameWithOwner": "dotnet/docs",
+          "url": "https://github.com/dotnet/docs",
+          "stars": 4778,
+          "mergedPullRequests": 1
+        }
+      ]
+    }
   }
 }
