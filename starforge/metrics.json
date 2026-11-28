@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-27T12:23:47.059Z",
+  "generatedAt": "2026-11-28T11:48:06.418Z",
   "visibility": "public",
   "user": {
     "login": "ShyneChikwapulo",
@@ -11,19 +11,15 @@
     "following": 32
   },
   "window": {
-    "from": "2025-11-28",
-    "to": "2026-11-27"
+    "from": "2025-11-29",
+    "to": "2026-11-28"
   },
   "contributions": {
-    "commits": 512,
+    "commits": 569,
     "pullRequests": 11,
     "issues": 1,
     "reviews": 0,
     "calendar": [
-      {
-        "date": "2025-11-28",
-        "count": 0
-      },
       {
         "date": "2025-11-29",
         "count": 0
@@ -1474,11 +1470,15 @@
       },
       {
         "date": "2026-11-26",
-        "count": 5
+        "count": 4
       },
       {
         "date": "2026-11-27",
         "count": 7
+      },
+      {
+        "date": "2026-11-28",
+        "count": 0
       }
     ]
   },
@@ -1488,98 +1488,98 @@
       "color": "#3572A5",
       "bytes": 23085544,
       "repoCount": 9,
-      "share": 0.7536680176001249
+      "share": 0.7536386652020598
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "bytes": 2817685,
-      "repoCount": 8,
-      "share": 0.09198826192580119
+      "bytes": 2818878,
+      "repoCount": 9,
+      "share": 0.09202362540330226
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
       "bytes": 2328732,
       "repoCount": 3,
-      "share": 0.07602553485254555
+      "share": 0.07602257395768205
     },
     {
       "name": "CSS",
       "color": "#663399",
       "bytes": 1285671,
       "repoCount": 8,
-      "share": 0.041972981613773976
+      "share": 0.04197134693161216
     },
     {
       "name": "HTML",
       "color": "#e34c26",
       "bytes": 409814,
       "repoCount": 10,
-      "share": 0.013379095808388903
+      "share": 0.013378574745352197
     },
     {
       "name": "Dart",
       "color": "#00B4AB",
       "bytes": 388943,
       "repoCount": 1,
-      "share": 0.01269772545838406
+      "share": 0.012697230932036289
     },
     {
       "name": "C#",
       "color": "#7355dd",
       "bytes": 248724,
       "repoCount": 2,
-      "share": 0.008120030613511792
+      "share": 0.00811971437033137
     },
     {
       "name": "C",
       "color": "#555555",
       "bytes": 43726,
       "repoCount": 1,
-      "share": 0.0014275118549332457
+      "share": 0.0014274562589742423
     },
     {
       "name": "PowerShell",
       "color": "#012456",
       "bytes": 8834,
       "repoCount": 1,
-      "share": 0.000288401402517502
+      "share": 0.0002883901704198522
     },
     {
       "name": "Shell",
       "color": "#89e051",
       "bytes": 7076,
       "repoCount": 2,
-      "share": 0.000231008413426969
+      "share": 0.00023099941655998124
     },
     {
       "name": "Dockerfile",
       "color": "#384d54",
       "bytes": 4786,
       "repoCount": 2,
-      "share": 0.0001562473525524977
+      "share": 0.00015624126733409697
     },
     {
       "name": "Swift",
       "color": "#F05138",
       "bytes": 900,
       "repoCount": 1,
-      "share": 0.000029382076326211435
+      "share": 0.000029380932010172855
     },
     {
       "name": "Go Template",
       "color": "#00ADD8",
       "bytes": 356,
       "repoCount": 1,
-      "share": 0.000011622243524590301
+      "share": 0.000011621790884023928
     },
     {
       "name": "Kotlin",
       "color": "#A97BFF",
       "bytes": 128,
       "repoCount": 1,
-      "share": 0.000004178784188616737
+      "share": 0.000004178621441446806
     }
   ],
   "repositories": [
@@ -1597,19 +1597,6 @@
       "isArchived": false
     },
     {
-      "name": "ShyneChikwapulo",
-      "url": "https://github.com/ShyneChikwapulo/ShyneChikwapulo",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "primaryLanguage": null,
-      "topics": [],
-      "createdAt": "2026-11-26T23:42:18Z",
-      "pushedAt": "2026-11-27T12:12:46Z",
-      "isFork": false,
-      "isArchived": false
-    },
-    {
       "name": "starforge-template",
       "url": "https://github.com/ShyneChikwapulo/starforge-template",
       "description": "A cyberpunk animated GitHub profile README, drawn from your own activity with Starforge",
@@ -1618,7 +1605,7 @@
       "primaryLanguage": null,
       "topics": [],
       "createdAt": "2026-11-16T00:21:58Z",
-      "pushedAt": "2026-11-27T12:14:02Z",
+      "pushedAt": "2026-11-28T11:43:16Z",
       "isFork": false,
       "isArchived": false
     },
@@ -1644,7 +1631,7 @@
       "primaryLanguage": null,
       "topics": [],
       "createdAt": "2026-11-04T07:42:40Z",
-      "pushedAt": "2026-11-26T12:37:26Z",
+      "pushedAt": "2026-11-27T12:24:04Z",
       "isFork": false,
       "isArchived": false
     },
@@ -1763,6 +1750,19 @@
       "createdAt": "2026-10-07T14:12:46Z",
       "pushedAt": "2026-10-25T16:21:01Z",
       "isFork": true,
+      "isArchived": false
+    },
+    {
+      "name": "ShyneChikwapulo",
+      "url": "https://github.com/ShyneChikwapulo/ShyneChikwapulo",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "createdAt": "2026-10-04T01:32:33Z",
+      "pushedAt": "2026-11-27T19:23:50Z",
+      "isFork": false,
       "isArchived": false
     },
     {
@@ -1962,19 +1962,19 @@
         {
           "nameWithOwner": "appwrite/appwrite",
           "url": "https://github.com/appwrite/appwrite",
-          "stars": 58700,
+          "stars": 58602,
           "mergedPullRequests": 1
         },
         {
           "nameWithOwner": "github/docs",
           "url": "https://github.com/github/docs",
-          "stars": 21564,
+          "stars": 21562,
           "mergedPullRequests": 2
         },
         {
           "nameWithOwner": "dotnet/orleans",
           "url": "https://github.com/dotnet/orleans",
-          "stars": 10931,
+          "stars": 10934,
           "mergedPullRequests": 2
         },
         {
